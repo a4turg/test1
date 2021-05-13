@@ -1,0 +1,9 @@
+pip install base64
+pip install colorama
+pip install time
+pip install qrcode
+pip install PIL
+pip install Image
+pip install pathlib
+pip install os
+pip install tkinter
